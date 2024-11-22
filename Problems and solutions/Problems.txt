@@ -1,0 +1,86 @@
+1. Hello, World!
+Difficulty: Beginner
+Print "Hello, World!" to the console.
+
+2. Variables and Data Types
+Difficulty: Beginner
+Declare a variable and print a personalized greeting.
+
+3. Basic Arithmetic
+Difficulty: Beginner
+Multiply two numbers and print the result.
+
+4. Conditional Statements
+Difficulty: Beginner
+Check if a number is positive, negative, or zero.
+
+5. Loops (For Loop)
+Difficulty: Beginner
+Print the first 10 numbers in the Fibonacci sequence.
+
+6. Arrays
+Difficulty: Beginner
+Find the largest number in an array.
+
+7. Functions
+Difficulty: Intermediate
+Write a recursive function to calculate the factorial of a number.
+
+8. String Manipulation
+Difficulty: Intermediate
+Reverse a string.
+
+9. Objects
+Difficulty: Intermediate
+Create and print an object representing a car.
+
+10. Higher-Order Functions
+Difficulty: Intermediate
+Square each number in an array using map.
+
+11. Error Handling
+Difficulty: Intermediate
+Create a function to divide numbers, handling division by zero.
+
+12. Date and Time
+Difficulty: Intermediate
+Print the current date in YYYY-MM-DD format.
+
+13. DOM Manipulation
+Difficulty: Intermediate
+Create a button that changes its text when clicked.
+
+14. Event Listeners
+Difficulty: Intermediate
+Log the mouse's coordinates as it moves on the screen.
+
+15. Fetch API
+Difficulty: Advanced
+Fetch data from a mock API and log the response.
+
+16. Async/Await
+Difficulty: Advanced
+Rewrite the previous problem using async/await.
+
+17. Local Storage
+Difficulty: Advanced
+Store and retrieve a user's name using local storage.
+
+18. Regular Expressions
+Difficulty: Advanced
+Validate if a string is an email address using regex.
+
+19. Promises
+Difficulty: Advanced
+Simulate an API call with a promise that resolves after 2 seconds.
+
+20. Canvas API
+Difficulty: Expert
+Create a circle on a canvas using the Canvas API.
+
+
+Difficulty	    Steps Covered
+Beginner	        1–6
+Intermediate	    7–14
+Advanced	        15–19
+Expert	            20

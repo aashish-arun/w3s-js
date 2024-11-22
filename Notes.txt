@@ -1,0 +1,73 @@
+Introduction
+    JavaScript is the world's most popular programming language. It is the programming language of the Web. It is easy to learn.
+
+    It offers the following functions
+
+        Can Change HTML Content
+
+        Can Change HTML Attribute Values
+
+        Can Change HTML Styles (CSS)
+
+        Can Hide HTML Elements
+
+        Can Show HTML Elements
+
+    Did You Know?
+        JavaScript and Java are completely different languages, both in concept and design.
+
+        JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997.
+
+        ECMA-262 is the official name of the standard. ECMAScript is the official name of the language.
+
+Where To
+    The <script> Tag
+        JavaScript code is inserted between <script> and </script> tags.
+
+    JavaScript Functions and Events
+        A JavaScript function is a block of JavaScript code, that can be executed when "called" for.
+
+        Aa function can be called when an event occurs (like when the user clicks a button).
+
+    JavaScript in <head> or <body>
+        Scripts can be placed in the <body>, or in the <head> section of an HTML page, or in both.
+
+        JavaScript in <head>
+            A JavaScript function is placed in the <head> section of an HTML page.
+        
+        JavaScript in <body>
+            A JavaScript function is placed in the <body> section of an HTML page.
+
+    External JavaScript
+        Scripts can also be placed in external files. These external scripts are practical when the same code is used in many different web pages. These files have the file extension .js.
+
+        To use an external script, put the name of the script file in the src (source) attribute of a <script> tag:
+        Syntax
+            <script src="ScriptsFileName"></script>
+
+                src can be a full URL, file path or just the name (same dir) to link to ScriptsFileName.js
+
+        You can place an external script reference in <head> or <body> as you like.
+
+        The script will behave as if it was located exactly where the <script> tag is located.
+
+        Note: External scripts cannot contain <script> tags.
+
+
+        Advantages of External JavaScript             
+            It separates HTML and code
+            It makes HTML and JavaScript easier to read and maintain
+            Cached JavaScript files can speed up page loads
+
+Output
+
+    Display Possibilities
+
+        JavaScript can "display" data in different ways:
+
+            Writing into an HTML element, using innerHTML.
+
+            
+            Writing into the HTML output using document.write().
+            Writing into an alert box, using window.alert().
+            Writing into the browser console, using console.log().
